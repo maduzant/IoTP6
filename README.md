@@ -1,1 +1,4 @@
-
+Disimulasi ada beberapa devices yaitu 1 server, 1 switch, 1 laptop, 1 wireless router, 1 sensor motion detector, dan home device, light dan webcam disumulasi saya menggunakan router untuk menghubungkan ke home device
+mengatur Ip addressnya membuat ip address untuk server 192.168.0.10 . default gateway nya saya masukkan ip address dari wireless router 192.168.0.1, setelah itu masukkan network Configuration pada menu service lalu pilih AAA, dan masukan Home device ke User Setup
+Setelah itu masuk ke wireless router atur pada bagian wireless dan wirelles security. Untuk encryption pilih AES dan radius server masukkan ip addres dari server. Setelah semua terhubung lalu
+masuk ke device laptop dan setting pada bagian kondisi, disini saya membuat kondisi dimana jika sensor ada gerakan maka home device pintu, garasi lampu kipas dan jendela akan terbuka
